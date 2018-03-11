@@ -11,7 +11,7 @@ s.license     = { :type => "MIT", :file => "LICENSE" }
 s.platform = :ios, '10.0'
 s.requires_arc = true
 s.source_files = 'HWTools'
-s.public_header_files = 'HWTolls/*.h'
+s.public_header_files = 'MySDK/*.h'
  
 s.ios.deployment_target = '10.0'
 end
