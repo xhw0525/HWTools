@@ -5,7 +5,7 @@ s.authors     = { 'xhw' => 'xhw0525@qq.com' }
 s.homepage    = 'https://xhw0525@github.com/xhw0525/HWTools'
 s.summary     = 'a dropdown menu for ios like wechat homepage.'
 s.source      = { :git => 'https://xhw0525@github.com/xhw0525/HWTools.git',
-:tag => s.version.to_s }
+:tag => s.version }
 s.license     = { :type => "MIT", :file => "LICENSE" }
  
 s.platform = :ios, '10.0'
